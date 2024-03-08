@@ -1,4 +1,4 @@
-# Virtual-Mail-Server
+# Virtual Mail Server
 
 <br>
 
