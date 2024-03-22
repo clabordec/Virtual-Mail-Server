@@ -3,6 +3,8 @@
 ### Introduction:
 The "Virtual Mail Server" repository aims to provide comprehensive documentation, configuration files, and scripts to facilitate the setup and management of a virtual mail server environment on Linux systems. This project is targeted towards Linux system administrators looking to deploy a robust and scalable email infrastructure for their organization.
 
+<br>
+
 ### Key Components:
 
 - <b>Mail Transfer Agent (MTA)</b>: Installation and configuration of a reliable MTA, such as Postfix or Exim, to handle SMTP services for sending and receiving emails.
