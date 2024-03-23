@@ -33,7 +33,10 @@ The "Virtual Mail Server" repository aims to provide comprehensive documentation
 - Provide a turnkey solution for deploying a virtual mail server on Linux systems.
 - Enable system administrators to customize and tailor the mail server configuration to meet the specific requirements of their organization.
 - Foster collaboration and knowledge sharing within the Linux system administration community by providing a centralized repository of resources and insights related to virtual mail server management.
-- By leveraging the resources and expertise provided in the "Virtual Mail Server" repository, Linux system administrators can streamline the deployment process, optimize server performance, and ensure reliable email communication services for their organization.
+
+<br>
+
+By leveraging the resources and expertise provided in the "Virtual Mail Server" repository, Linux system administrators can streamline the deployment process, optimize server performance, and ensure reliable email communication services for their organization.
 
 <br>
 
